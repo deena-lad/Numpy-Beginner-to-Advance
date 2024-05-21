@@ -9,3 +9,7 @@ Description: This file includes intermediate-level NumPy functions. It expands o
 3. Advanced Level
 File: advanced numpy.py
 Description: This file showcases advanced NumPy functions. It covers complex array manipulations, advanced linear algebra, Fourier transforms, memory layout optimization, masked arrays, custom universal functions, sparse matrix operations, QR decompositions, numerical differentiation, efficient computation techniques, and handling large datasets.
+
+### Resource links:
+- NumPy Official Documentation: https://numpy.org/doc/
+- NumPy Tutorial: https://numpy.org/learn/
