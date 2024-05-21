@@ -1,5 +1,5 @@
 # Numpy-Beginner-to-Advance
-This repository is designed to help you master NumPy, the fundamental package for scientific computing with Python. Whether you are just getting started or looking to refine your skills with advanced techniques, this repo covers a comprehensive range of topics and functionalities. It covers a range of topics from beginner to advanced.
+This repository is designed to help master NumPy, the fundamental package for scientific computing with Python. Whether you are just getting started or looking to refine your skills with advanced techniques, this repo covers a comprehensive range of topics and functionalities. It covers a range of topics from beginner to advanced.
 1. Beginner Level
 File: basic numpy.py
 Description: This file contains essential NumPy functions for beginners. It covers array creation, basic operations, reshaping, indexing, slicing, and basic statistical operations.
